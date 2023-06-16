@@ -1,0 +1,6 @@
+br\edu\ifnmg\adaptor\apis\OpenGLImage.class
+br\edu\ifnmg\adaptor\Adaptor.class
+br\edu\ifnmg\adaptor\apis\SDLSurface.class
+br\edu\ifnmg\adaptor\imagemtarget\ImagemTarget.class
+br\edu\ifnmg\adaptor\adapters\OpenGLImageAdapter.class
+br\edu\ifnmg\adaptor\adapters\SDLImagemAdapter.class

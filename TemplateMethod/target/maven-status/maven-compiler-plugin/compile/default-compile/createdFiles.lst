@@ -1,0 +1,4 @@
+br\edu\ifnmg\templatemethod\TemplateMethod.class
+br\edu\ifnmg\templatemethod\ProcessadorPagamentoCredito.class
+br\edu\ifnmg\templatemethod\ProcessadorPagamentoDebito.class
+br\edu\ifnmg\templatemethod\ProcessadorPagamento.class

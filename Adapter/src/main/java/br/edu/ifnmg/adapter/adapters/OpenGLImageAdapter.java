@@ -3,10 +3,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-package br.edu.ifnmg.adaptor.adapters;
+package br.edu.ifnmg.adapter.adapters;
 
-import br.edu.ifnmg.adaptor.apis.OpenGLImage;
-import br.edu.ifnmg.adaptor.imagemtarget.ImagemTarget;
+import br.edu.ifnmg.adapter.apis.OpenGLImage;
+import br.edu.ifnmg.adapter.imagemtarget.ImagemTarget;
 
 /**
  *

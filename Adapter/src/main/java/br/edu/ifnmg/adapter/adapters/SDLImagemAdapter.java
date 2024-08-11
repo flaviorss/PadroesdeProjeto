@@ -5,8 +5,8 @@
 
 package br.edu.ifnmg.adaptor.adapters;
 
-import br.edu.ifnmg.adaptor.apis.SDLSurface;
-import br.edu.ifnmg.adaptor.imagemtarget.ImagemTarget;
+import br.edu.ifnmg.adapter.apis.SDLSurface;
+import br.edu.ifnmg.adapter.imagemtarget.ImagemTarget;
 
 /**
  *

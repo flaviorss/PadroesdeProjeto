@@ -4,15 +4,15 @@
 
 package br.edu.ifnmg.adaptor;
 
-import br.edu.ifnmg.adaptor.adapters.OpenGLImageAdapter;
-import br.edu.ifnmg.adaptor.adapters.SDLImagemAdapter;
-import br.edu.ifnmg.adaptor.imagemtarget.ImagemTarget;
+import br.edu.ifnmg.adapter.adapters.OpenGLImageAdapter;
+import br.edu.ifnmg.adapter.adapters.SDLImagemAdapter;
+import br.edu.ifnmg.adapter.imagemtarget.ImagemTarget;
 
 /**
  *
  * @author flawy
  */
-public class Adaptor {
+public class Adapter {
 
     public static void main(String[] args) {
         

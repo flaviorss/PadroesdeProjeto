@@ -3,7 +3,7 @@
     Padrões de Projeto
     <br />
   </h1>
- <img src="https://skillicons.dev/icons?i=java" alt=""> &nbsp &nbsp
+ <img src="https://skillicons.dev/icons?i=java" alt=""> &nbsp; &nbsp;
  <img src="https://skillicons.dev/icons?i=idea" alt="">
 </div>
 
